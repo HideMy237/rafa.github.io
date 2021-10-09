@@ -1,0 +1,22 @@
+corpo{
+    cor do fundo:#B0C4DE;
+    cor branca;
+    margem: 0%
+}
+#eco  {
+    cor?  verde;
+    alinhamento de texto: centro;
+    tamanho da fonte: 3,5 rem;
+    padding-top : 20px
+}
+.titulo {
+    cor :  MidnightBlue;
+    alinhamento  de texto: centro;
+    tamanho da fonte: 20px;
+}
+#logotipo{
+        @@ -30,3 +30,4 @@ body {
+    tamanho da fonte: 25px;
+}
+
+        
